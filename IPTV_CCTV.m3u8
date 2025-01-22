@@ -1,0 +1,12 @@
+#EXTM3U
+#PLAYLIST:IPTV_CCTV
+#EXTINF:-1 ,CGTN EN 1080p
+https://english-livebkws.cgtn.com/live/encgtn_0.m3u8
+#EXTINF:-1 ,CGTN EN 720p
+https://english-livebkws.cgtn.com/live/encgtn.m3u8
+#EXTINF:-1 ,CGTN EN 720p (mirror)
+https://english-livebkws.cgtn.com/live/encgtn_1.m3u8
+#EXTINF:-1 ,CGTN RU
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1 ,CCTV 4
+https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv4_1_720P/playlist.m3u8?wsApp=HLS
