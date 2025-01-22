@@ -10,3 +10,5 @@ https://english-livebkws.cgtn.com/live/encgtn_1.m3u8
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 ,CCTV 4
 https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv4_1_720P/playlist.m3u8?wsApp=HLS
+#EXTINF:-1 ,National Geographic
+http://stream01.vnet.am/NationalGeographic/tracks-v1a1/mono.m3u8
