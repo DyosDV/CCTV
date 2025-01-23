@@ -1,5 +1,7 @@
 #EXTM3U
 #PLAYLIST:IPTV_CCTV
+#EXTINF:-1 ,CCTV EN 600p
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 ,CGTN EN 1080p
 https://english-livebkws.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 ,CGTN EN 720p
