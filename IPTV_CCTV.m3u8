@@ -4,7 +4,7 @@
 https://cdn.ntv.ru/ntv4_sd/rewind-7150.m3u8
 #EXTINF:-1 ,NTV RU +7
 https://cdn.ntv.ru/ntv7_sd/rewind-7150.m3u8
-#EXTINF:-1 ,NTV RU +7 alt
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9r1BKzK.png",NTV RU +7 alt1
 http://cdn.ntv.ru/ntv7/playlist.m3u8
 #EXTINF:-1 ,NTV RU +7 Zabava
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
