@@ -4,10 +4,12 @@
 https://cdn.ntv.ru/ntv4_sd/rewind-7150.m3u8
 #EXTINF:-1 ,NTV RU +7
 https://cdn.ntv.ru/ntv7_sd/rewind-7150.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9r1BKzK.png",NTV RU +7 alt1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9r1BKzK.png",NTV RU +7 alt
 http://cdn.ntv.ru/ntv7/playlist.m3u8
 #EXTINF:-1 ,NTV RU +7 Zabava
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+#EXTINF:-1 tvg-id="НТВ (+6)" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9D%D0%A2%D0%92%20+0%20(%D0%9D%D0%B5%D0%B2%D0%B8%D0%BD%D0%BD%D0%BE%D0%BC%D1%8B%D1%81%D1%81%D0%BA).png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8298/video-${start}-${duration}.m3u8?token=g8x4eKnX2raeFjho" timeshift="1", НТВ (+6)
+http://cdn.admuspeh.my/8298/video.m3u8?token=g8x4eKnX2raeFjho
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 ,CCTV CN 600p
